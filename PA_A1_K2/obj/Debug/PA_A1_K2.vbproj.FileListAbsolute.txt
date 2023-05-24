@@ -1,0 +1,105 @@
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\bin\Debug\PA_A1_K2.exe.config
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\bin\Debug\PA_A1_K2.exe
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\bin\Debug\PA_A1_K2.pdb
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\bin\Debug\PA_A1_K2.xml
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.AssemblyReference.cache
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.SuggestedBindingRedirects.cache
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.Resources.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.GenerateResource.cache
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.CoreCompileInputs.cache
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.exe
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.xml
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.pdb
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\bin\Debug\mysql.data.dll
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.CopyComplete
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.LihatTanaman.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.MainWindow.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.Keranjang.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.DetailTanaman.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.TambahPesanan.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.Users.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.Pesanan.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.Profile.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.LoginAdmin.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.Registrasi.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.LoginUser.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.TambahTanaman.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA_A1_K2\obj\Debug\PA_A1_K2.StrukPemesanan.resources
+C:\Users\HP\source\repos\PA_A1_K2\bin\Debug\PA_A1_K2.exe.config
+C:\Users\HP\source\repos\PA_A1_K2\bin\Debug\PA_A1_K2.exe
+C:\Users\HP\source\repos\PA_A1_K2\bin\Debug\PA_A1_K2.pdb
+C:\Users\HP\source\repos\PA_A1_K2\bin\Debug\PA_A1_K2.xml
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.DetailTanaman.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.Keranjang.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.LoginUser.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.LoginAdmin.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.Registrasi.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.StrukPemesanan.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.TambahTanaman.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.Users.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.MainWindow.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.Resources.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.LihatTanaman.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.Pesanan.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.Profile.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.TambahPesanan.resources
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.CopyComplete
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.exe
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.xml
+C:\Users\HP\source\repos\PA_A1_K2\obj\Debug\PA_A1_K2.pdb
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\bin\Debug\PA_A1_K2.exe.config
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\bin\Debug\PA_A1_K2.exe
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\bin\Debug\PA_A1_K2.pdb
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\bin\Debug\PA_A1_K2.xml
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.AssemblyReference.cache
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.SuggestedBindingRedirects.cache
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.DetailTanaman.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.Keranjang.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.LoginUser.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.LoginAdmin.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.Registrasi.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.StrukPemesanan.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.TambahTanaman.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.Users.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.MainWindow.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.Resources.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.LihatTanaman.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.Pesanan.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.Profile.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.TambahPesanan.resources
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.GenerateResource.cache
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.CoreCompileInputs.cache
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.CopyComplete
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.exe
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.xml
+D:\#Keken\College\SMT 04\Pemrograman Visual^\PRAKTIKUM\PA\PA FIX\PA_A1_K2\obj\Debug\PA_A1_K2.pdb
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\bin\Debug\PA_A1_K2.exe.config
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\bin\Debug\PA_A1_K2.exe
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\bin\Debug\PA_A1_K2.pdb
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\bin\Debug\PA_A1_K2.xml
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.AssemblyReference.cache
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.SuggestedBindingRedirects.cache
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.DetailTanaman.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.Keranjang.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.LoginUser.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.LoginAdmin.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.Registrasi.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.StrukPemesanan.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.TambahTanaman.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.Users.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.MainWindow.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.Resources.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.LihatTanaman.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.Pesanan.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.Profile.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.TambahPesanan.resources
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.vbproj.CopyComplete
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.exe
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.xml
+D:\SEMESTER 4\PRAKTIKUM PEMROGRAMAN VISUAL\PROJEK AKHIR\PA_A1_K2\obj\Debug\PA_A1_K2.pdb
